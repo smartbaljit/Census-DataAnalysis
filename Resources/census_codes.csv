@@ -1,0 +1,8 @@
+Census Code,Field Name,Census API Code
+NAME,Name,NAME
+B05002_003,State Born,B05002_003E
+B05002_004,Other State Born,B05002_004E
+B05002_013,Foreign Born,B05002_013E
+B01003_001,Population,B01003_001E
+B01002_001,Median Age,B01002_001E
+B19013_001,Household Income,B19013_001E
